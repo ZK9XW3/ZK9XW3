@@ -8,7 +8,7 @@ I'm also trying to get good habits with my git strategy and when naming my commi
 </p><br/>
   
 <h2>Projects :computer:</h2>
-<p>I am actualy working on new projects but here are the one i worked on recently</p>
+<p>I am actualy working on new projects but here are some i worked on recently</p>
 
 - <h3>Just Another Blog</h3>
 <p align="center">
