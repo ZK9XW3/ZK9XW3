@@ -10,6 +10,18 @@ I'm also trying to get good habits with my git strategy and when naming my commi
 <h2>Projects :computer:</h2>
 <p>I am actualy working on new projects but here are some i worked on recently</p>
 
+- <h3>Random Gifts</h3>
+<p align="center">
+  <p>In this project setting up Secret Santa becomes way easier. You just put the different names under the magic tree and you get a list of who is gifting who.</p>
+  <p>The magic favors gifting to members with different family names</p>
+  <a href="https://github.com/ZK9XW3/random-gifts">
+    <img width="400" src="https://github.com/ZK9XW3/random-gifts/blob/main/public/assets/img/randomGiftPicker-Thumbnail.PNG" />
+    <img width="400" src="https://github.com/ZK9XW3/random-gifts/blob/main/public/assets/img/randomGiftPickerResults-Thumbnail.PNG" />
+  <p>GitHub Repo</p>
+  </a>
+</p>
+<br/>
+
 - <h3>Just Another Blog</h3>
 <p align="center">
   <p>A blog made with Symfony 5, easyAdmin, webpack, twig and else in wich the customer can create, edit , delete posts and categories easily through the back office.</p>
