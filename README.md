@@ -14,6 +14,7 @@ I'm also trying to get good habits with my git strategy and when naming my commi
 <p align="center">
   <p>In this project setting up Secret Santa becomes way easier. You just put the different names under the magic tree and you get a list of who is gifting who.</p>
   <p>The magic favors gifting to members with different family names</p>
+  <p> :fire: If you want to give it a try, It's online for a few weeks here https://random-gifts.osc-fr1.scalingo.io/</p>
   <a href="https://github.com/ZK9XW3/random-gifts">
     <img width="400" src="https://github.com/ZK9XW3/random-gifts/blob/main/public/assets/img/randomGiftPicker-Thumbnail.PNG" />
     <img width="400" src="https://github.com/ZK9XW3/random-gifts/blob/main/public/assets/img/randomGiftPickerResults-Thumbnail.PNG" />
