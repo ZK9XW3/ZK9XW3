@@ -2,7 +2,7 @@
 <h1> :wave: Hello there !! </h1>
 <h2>About me</h2>
 <p>
-Hey there! 👋 Here's my story as a code craftsman:
+Hey there! 👋
 
 From career-switcher to mid-level developer, I've found my sweet spot in the back-end world with Symfony. I'm that guy who gets excited about clean code and SOLID principles – you know, the one who actually enjoys refactoring!
 
