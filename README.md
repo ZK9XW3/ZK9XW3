@@ -2,7 +2,7 @@
 <h1> :wave: Hello there !! </h1>
 <h2>About me</h2>
 <p>
-From career-switcher to mid-level developer, I've found my sweet spot in the back-end world with Symfony. I'm that guy who gets excited about clean code and SOLID principles – you know, the one who actually enjoys refactoring!
+From career-switcher to mid-level developer, I've found my sweet spot in the back-end world with Symfony. I'm that guy who gets excited about clean code and SOLID principles – you know, the one who actually enjoys refactoring and using design patterns!
 
 After diving deep into Clean Architecture and TDD (and devouring books by the coding legends like Uncle Bob, Fowler, and Beck), I've become a bit of a software craftsmanship enthusiast. Think "measure twice, code once" kind of developer.
 
