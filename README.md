@@ -2,9 +2,15 @@
 <h1> :wave: Hello there !! </h1>
 <h2>About me</h2>
 <p>
-I'm a junior web developer who fell in love with Symfony ! I'm constantly working on new projects so i can improve and develop my skills.<br/> Recently i've been working on API's, Json Web Token, Axios, Webpack, bootstrap and on my most recent projects easyAdmin, twig, VichUploader and the new authentication system of Symfony 5.<br/>
-I like being organised and i spend too much time planning my projects on trello, wireframing on whimsical and modelizing my databases with Merise method. I am more of a "thinking before doing" guy :sweat_smile: <br/>
-I'm also trying to get good habits with my git strategy and when naming my commits and branches.
+Hey there! 👋 Here's my story as a code craftsman:
+
+From career-switcher to mid-level developer, I've found my sweet spot in the back-end world with Symfony. I'm that guy who gets excited about clean code and SOLID principles – you know, the one who actually enjoys refactoring!
+
+After diving deep into Clean Architecture and TDD (and devouring books by the coding legends like Uncle Bob, Fowler, and Beck), I've become a bit of a software craftsmanship enthusiast. Think "measure twice, code once" kind of developer.
+
+When I'm not building something in my personal lab or learning the next cool thing, you'll find me geeking out over my mechanical keyboard, productivity tools, and perfecting my desk setup. Because let's face it – a well-organized workspace is just as satisfying as well-organized code! 
+
+🛠️ Tech enthusiast by day, perpetual learner by night.
 </p><br/>
   
 <h2>Projects :computer:</h2>
