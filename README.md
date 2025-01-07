@@ -10,9 +10,17 @@ When I'm not building something in my personal lab or learning the next cool thi
 
 🛠️ Tech enthusiast by day, perpetual learner by night.
 </p><br/>
-  
-<h2>Projects :computer:</h2>
+
+<h2>Last Projects :computer:</h2>
 <p>I am actualy working on new projects but here are some i worked on recently</p>
+
+- <h3>TDD FizzBuzz Dojo</h3>
+<p>A simple tdd kata to warm up a bit</p>
+<a href="https://github.com/ZK9XW3/tdd-dojo-fizzbuzz">
+  <p>GitHub Repo</p>
+</a>
+  
+<h2>Junior Projects :computer:</h2>
 
 - <h3>Random Gifts</h3>
 <p align="center">
