@@ -19,7 +19,38 @@ When I'm not building something in my personal lab or learning the next cool thi
 <a href="https://github.com/ZK9XW3/tdd-dojo-fizzbuzz">
   <p>GitHub Repo</p>
 </a>
-  
+<br/>
+
+- <h3>Book exchange - Clean Architecture simple POC in Symfony</h3>
+<p>POC that Clean Architecture is not that hard to handle in Symfony</p>
+<a href="https://github.com/ZK9XW3/book-exchange">
+  <p>GitHub Repo</p>
+</a>
+<br/>
+
+- <h3>Symfony Stack</h3>
+<p>My go to stack to start new project with quick phpunit install</p>
+<a href="https://github.com/ZK9XW3/symfony-docker-stack">
+  <p>GitHub Repo</p>
+</a>
+<br/>
+
+- <h3>Decorator - exploring another design pattern</h3>
+<p>More is better</p>
+<a href="https://github.com/ZK9XW3/design-pattern-decorator">
+  <p>GitHub Repo</p>
+</a>
+<br/>
+
+- <h3>Landing page</h3>
+<p>Landing page to introduce my Symfony/multi-site/Self-Hosted/Free CMS</p>
+<a href="https://github.com/ZK9XW3/greenbugLanding">
+  <p>GitHub Repo</p>
+</a>
+<br/>
+
+</p><br/>
+
 <h2>Junior Projects :computer:</h2>
 
 - <h3>Random Gifts</h3>
