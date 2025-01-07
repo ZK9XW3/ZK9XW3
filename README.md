@@ -52,6 +52,7 @@ When I'm not building something in my personal lab or learning the next cool thi
 </p><br/>
 
 <h2>Junior Projects :computer:</h2>
+<p>Because we all started somewhere !!</p>
 
 - <h3>Random Gifts</h3>
 <p align="center">
